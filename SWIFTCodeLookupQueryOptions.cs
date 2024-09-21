@@ -5,7 +5,7 @@ using System.Text;
 namespace APIVerve
 {
     public class SWIFTCodeLookupQueryOptions {
-public string bank { get; set; }
+public string swift { get; set; }
 }
 
 }
