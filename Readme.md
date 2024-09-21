@@ -71,7 +71,7 @@ Using the API client, you can perform requests to the API.
 
 ```
 var queryOptions = new SWIFTCodeLookupQueryOptions {
-  bank = "Silicon Valley Bank"
+  swift = "CHASUS33ARP"
 };
 ```
 
